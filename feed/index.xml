@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HEYYAYE</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Peopl&#039;s App</description>
+	<lastBuildDate>Thu, 02 Nov 2023 14:22:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Vikum Kalhara</title>
+		<link>./../hello-world/index.html</link>
+					<comments>./../hello-world/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[vkum kalhara]]></dc:creator>
+		<pubDate>Thu, 02 Nov 2023 07:07:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[About]]></category>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
+
+					<description><![CDATA[This web site you can use to make partnership/dealership with people. And you can find so many things what you want. And other thing is you can sell your products]]></description>
+										<content:encoded><![CDATA[
+<p>This web site you can use to make partnership/dealership with people. And you can find so many things what you want. And other thing is you can sell your products</p>
+
+
+
+<div class="wp-block-kadence-column kadence-column1_082ce9-6c"><div class="kt-inside-inner-col">
+<figure class="wp-block-kadence-image kb-image1_07eab8-e7 size-large"><img decoding="async" fetchpriority="high" width="1024" height="683" src="./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-1024x683.jpg" alt="" class="kb-img wp-image-67" srcset="./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-1024x683.jpg 1024w, ./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-300x200.jpg 300w, ./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-768x512.jpg 768w, ./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-1536x1024.jpg 1536w, ./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-2048x1365.jpg 2048w, ./../wp-content/uploads/2023/11/farmer-businessman-doing-deal-800x533.jpg 800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
